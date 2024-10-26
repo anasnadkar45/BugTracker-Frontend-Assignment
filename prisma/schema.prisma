@@ -21,3 +21,4 @@ model User {
   lastName     String
   profileImage String
 }
+
